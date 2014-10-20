@@ -6,7 +6,7 @@ StrongCrypt is a on the fly transparent disk encryption program for MS Windows V
 
 Using this software, you can create one or more "virtual disks" on your computer - anything written to these disks is automatically, and securely, encrypted before being stored on your computers hard drive.
 
-** This software is based on FreeOTFE and/or FreeOTFE4PDA, the free disk encryption system for PCs and PDAs, available at www.FreeOTFE.org **
+**This software is based on FreeOTFE and/or FreeOTFE4PDA, the free disk encryption system for PCs and PDAs, available at www.FreeOTFE.org**
 
 Features
 --
