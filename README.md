@@ -1,6 +1,5 @@
 StrongCrypt
 ===========
-----
 
 StrongCrypt is a on the fly transparent disk encryption program for MS Windows Vista/7/8/8.1/10 (32 and 64 Bit)
 
